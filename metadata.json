@@ -1,0 +1,6 @@
+{
+  "name": "Gamepad Keymapper Pro",
+  "description": "Gamepad keymapper with custom per-game button mapping, smart recoil compensation, and advanced macro combo engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
